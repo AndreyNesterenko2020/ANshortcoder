@@ -24,3 +24,9 @@ like this:
 Then, when you load your page, if you fullfilled
 all of the requirments of the module, you should notice
 that all `>-- --<` will be replaced.
+If you are of speedy type and you don't want
+to rewrite the contents of `shortCoderDataBase`, simply do this:
+make a `.js` or `.json` file that holds the contents of
+`shortCoderDataBase`. After that, add another `<script>`
+element the src of which is set to your config file.
+Not too confusing?
