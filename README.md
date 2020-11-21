@@ -30,3 +30,4 @@ make a `.js` or `.json` file that holds the contents of
 `shortCoderDataBase`. After that, add another `<script>`
 element the src of which is set to your config file.
 Not too confusing?
+check `test/test.html` if you need some help.
