@@ -9,7 +9,7 @@ the plugin that whatever is in between
 these two things is supposed to be replaced.
 In the global scope, you will find a variable
 `shortCoderDataBase`. That variable should have
-a property called sc1. The value of `shortCoderDatabase.sc1`
+a property called sc1. The value of `shortCoderDataBase.sc1`
 is the HTML code that you want to replace `>--sc1--<` with.
 # ANshortcoder documentation
 To get ANshortcoder v1 on your webpage, you will
